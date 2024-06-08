@@ -37,7 +37,7 @@
     <delete dir = "${xlight.prep.path}" />
     <mkdir dir = "${xlight.prep.path}" />
     <copy todir = "${xlight.prep.path}" overwrite = "true">
-      <fileset dir = "${bundle.srcdest}" excludes = "extra.properties" />
+      <fileset dir = "${bundle.srcdest}" excludes = "extras.properties" />
     </copy>
     <copy todir = "${xlight.prep.path}" overwrite = "true">
       <fileset dir = "${bundle.path}" defaultexcludes = "yes" />
