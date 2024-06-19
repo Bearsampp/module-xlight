@@ -1,4 +1,4 @@
-<virtualserver 0.0.0.0:21>
+<virtualserver 127.0.0.1:21>
 
 <username "anonymous">
 AllowNoPassword:yes
