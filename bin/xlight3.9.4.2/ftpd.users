@@ -2,7 +2,7 @@
 
 <username "anonymous">
 AllowNoPassword:yes
-VirtualPath: "/|e:\Bearsampp-development\sandbox\www\|R--L---S"
+VirtualPath: "/|e:\Bearsampp-development\sandbox\www\|RWCLADNS"
 </username>
 
 </virtualserver>
