@@ -1,0 +1,4 @@
+ShowServiceIcon:yes
+RemoteAdminIPPort:"0.0.0.0:0"
+LogCommandType:"both"
+EnableAutoConfigBackup:yes
