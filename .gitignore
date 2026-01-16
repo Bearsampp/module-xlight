@@ -19,4 +19,7 @@
 # Gradle
 .gradle/
 build/
-.gradle-cache/
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
