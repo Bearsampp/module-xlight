@@ -1,0 +1,5 @@
+<virtualserver 127.0.0.1:21>
+EnableUTF8:yes
+ServerNotes:"localhost"
+</virtualserver>
+
