@@ -3,7 +3,7 @@
   "owner": "Bearsampp",
   "repo": "module-xlight",
   "visibility": "public",
-  "generatedAt": "2026-10-07T20:17:52.144Z",
+  "generatedAt": "2026-10-08T09:40:33.411Z",
   "stats": {
     "total": 640,
     "day": 0,
@@ -11,17 +11,18 @@
     "month": 0
   },
   "partial": {
-    "day": true,
+    "day": false,
     "week": true,
     "month": true
   },
   "snapshots": {
     "windowDays": 90,
-    "count": 1,
+    "count": 2,
     "firstDate": "2026-10-07",
-    "lastDate": "2026-10-07",
+    "lastDate": "2026-10-08",
     "series": {
-      "2026-10-07": 640
+      "2026-10-07": 640,
+      "2026-10-08": 640
     }
   },
   "profile": {
